@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Study JS",
+      "day": "Feb 16 from 8:00 a.m to 4:00 p.m",
+      "reminder": true
+    },
+    {
+      "text": "Study ReactJS",
+      "day": "Feb 16 from 8:00 a.m to 10:00 a.m",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Study NextJS",
+      "day": "Friday",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
